@@ -29,9 +29,9 @@ Acting as a Business Intelligence Analyst, I have sourced and transformed a real
 ### **3. Dashboard Development (Part C)**
 Developed an interactive executive dashboard designed for decision support:
 ** KPI Summary**: High-level tracking of Total Revenue, Total Profit, and Units Sold.
-* [cite_start]**Trend Analysis**: Time-series visualization of profit trends by month and year[cite: 93].
+* **Trend Analysis**: Time-series visualization of profit trends by month and year[cite: 93].
 * **Comparative Analysis**: Regional and category performance distribution[cite: 94, 95].
-* [cite_start]**Interactivity**: Fully integrated slicers and cross-filtering for dynamic data exploration[cite: 96, 97].
+* **Interactivity**: Fully integrated slicers and cross-filtering for dynamic data exploration[cite: 96, 97].
 
 ### **4. Deployment (Part D)**
 * **Platform**: Published the final report to **Power BI Service**.
@@ -41,7 +41,7 @@ Developed an interactive executive dashboard designed for decision support:
 
 ## **Project Links**
 * **Live Dashboard Link**: [https://app.powerbi.com/groups/me/reports/d94042aa-42fc-43f4-9e6a-5cae5434eb5f/88a58af84d52505b1482?ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&experience=power-bi&bookmarkGuid=6f36b402-a62f-45bf-ad66-6828f4baecbb]
-* **Process Evidence (PDF)**: [Link to your uploaded PDF in this repo]
+* **Process Evidence (PDF)**: [[Link to your uploaded PDF in this repo](https://github.com/kidigapeet/global-sales-bi-dashboard/blob/main/PETER%20KIDIGA-MIDSEM.pdf)]
 
 ## **Author**
 **Peter Kidiga ** *Student ID: 341 * *United States International University - Africa (USIU)* 
