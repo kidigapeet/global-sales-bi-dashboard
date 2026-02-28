@@ -41,7 +41,7 @@ Developed an interactive executive dashboard designed for decision support:
 
 ## **Project Links**
 * **Live Dashboard Link**: [https://app.powerbi.com/groups/me/reports/d94042aa-42fc-43f4-9e6a-5cae5434eb5f/88a58af84d52505b1482?ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&experience=power-bi&bookmarkGuid=6f36b402-a62f-45bf-ad66-6828f4baecbb]
-* **Process Evidence (PDF)**: [[Link to your uploaded PDF in this repo](https://github.com/kidigapeet/global-sales-bi-dashboard/blob/main/PETER%20KIDIGA-MIDSEM.pdf)]
+* **Process Evidence (PDF)**: [[PDF](https://github.com/kidigapeet/global-sales-bi-dashboard/blob/main/PETER%20KIDIGA-MIDSEM.pdf)]
 
 ## **Author**
 **Peter Kidiga ** *Student ID: 341 * *United States International University - Africa (USIU)* 
